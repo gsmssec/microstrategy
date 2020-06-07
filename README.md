@@ -1,2 +1,2 @@
 # microstrategy
-experiments n microstrategy
+My Experiments with MicroStrategy
